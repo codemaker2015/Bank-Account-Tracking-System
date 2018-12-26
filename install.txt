@@ -1,0 +1,16 @@
+Steps to download,  open and run this project
+The following are the steps to be taken to run the existing part of the application.
+1.	Download accountstracker.zip and unzip it into any directory in your system. For example, if you extract to c:\ then it will create a directory c:\accountstracker.
+2.	Start Eclipse IDE and import this project into Eclipse Workspace as follows :
+1.	Select File->Import
+2.	Select General node and Existing Projects into Workspace
+3.	Click on Next
+4.	Select root directory radio button and select folder into which you extracted .rar file (c:\accountstracker). It displays the name of the project (AccountsTracker) in Projects listbox.
+5.	Click Finish button. Project is imported into current workspace.
+3.	When you run project first time database is automatically created and tables are created.
+4.	Click on Add Account button and add a couple of accounts
+5.	Use Add Transactions in menu or Add Trans button in list accounts activity to add some transactions for accounts
+6.	Test other operations
+Install Application In Android Device
+7.	If you want to install this application into your device, download accountstracker.apk file into your device and install it when prompted to do so. For this to work in your device, you must go toSettings -> Applications and turn on Unknow Sources option.
+
